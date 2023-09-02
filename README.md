@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Langchain, Generative AI**
 
-- 👨‍💻 All of my projects are available at [https://huggingface.co/Jonathancasjar](https://huggingface.co/Jonathancasjar)
+- 👨‍💻 All of my projects are available here and at [https://huggingface.co/Jonathancasjar](https://huggingface.co/Jonathancasjar)
 
 - 💬 Ask me about **Python, Machine Learning**
 
